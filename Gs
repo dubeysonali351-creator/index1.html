@@ -15,7 +15,7 @@
     <div class="question-box" data-correct="2" style="margin-top: 20px;">
         <p><b>Q2: निम्नलिखित में से कौन सी 'रबी की फसल' (Rabi Crop) है?<br>Which of the following is a 'Rabi Crop'?</b></p>
         <label><input type="radio" name="q2" value="0"> (A) धान (Paddy)</label><br>
-        <label><iunput type="radio" name="q2" value="1"> (B) मक्का (Maize)</label><br>
+        <label><input type="radio" name="q2" value="1"> (B) मक्का (Maize)</label><br>
         <label><input type="radio" name="q2" value="2"> (C) सरसों (Mustard)</label><br>
         <label><input type="radio" name="q2" value="3"> (D) कपास (Cotton)</label>
         <p class="explanation" style="display:none; color:green; margin-top:5px;"><b>सही उत्तर:</b> (C) सरसों। यह सर्दियों में बोई जाने वाली रबी फसल है।</p>
